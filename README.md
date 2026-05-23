@@ -18,7 +18,8 @@ The dataset used in this project is sourced from the [Open Government Data Platf
 - Cleaned and analyzed AQI data using R
 - Visualized pollution trends across major cities in India
 - Identified most and least polluted cities
-- Built a **linear regression-based AQI prediction model** using pollutant values
+- Made a **linear regression-based AQI prediction model** using pollutant values
+- Built an RShiny App and Hosted it using Rsconnect
 - Model implementation is available through RStudio workspace (`.RData`) and history file (`.Rhistory`)
 
 ---
